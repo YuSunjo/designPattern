@@ -1,4 +1,4 @@
-package com.example.designpattern.behavioral;
+package com.example.designpattern.behavioral.chain;
 
 public class AuthRequestHandler extends RequestHandler{
 

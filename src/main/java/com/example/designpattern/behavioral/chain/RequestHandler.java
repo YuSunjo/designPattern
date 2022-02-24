@@ -1,4 +1,4 @@
-package com.example.designpattern.behavioral;
+package com.example.designpattern.behavioral.chain;
 
 public abstract class RequestHandler {
 
